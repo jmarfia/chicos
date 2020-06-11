@@ -24,6 +24,7 @@
   color: white;
   background-color: #4b77fa;
 }
+
 .addItemInput:focus {
   outline: none;
 }
